@@ -1,19 +1,6 @@
 # 🤖 Chat GPT Clone
 
 A powerful AI chat application that mirrors the functionality of ChatGPT, bringing intelligent conversations to your fingertips!
-## 📸 Preview
-
-![Landing Page](https://github.com/riteshk-007/Chat-GPT-Clone/assets/135107962/709ebafa-028c-42f8-b55f-1fa6511e8475)
-
-### Chat Interface
-![Chat Interface](https://github.com/riteshk-007/Chat-GPT-Clone/assets/135107962/7e299f54-f647-466c-923d-40c803aa7b86)
-
-### Interactive Responses
-![AI Responses](https://github.com/riteshk-007/Chat-GPT-Clone/assets/135107962/416eae67-959a-4922-852d-87bed8261522)
-
-### Mobile Responsive
-![Mobile View](https://github.com/riteshk-007/Chat-GPT-Clone/assets/135107962/d6607bf5-4682-47b6-9973-92a62644c58a)
-
 
 ## 🛠️ Tech Stack & Tools
 
