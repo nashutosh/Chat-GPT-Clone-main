@@ -123,7 +123,7 @@ Contributions are always welcome! Here's how you can help:
 
 **Ashutosh Singh**
 - 📧 Email: ashutoshsingh6376@gmail.com
-- 💻 GitHub: [riteshk-007](https://github.com/riteshk-007)
+- 💻 GitHub: [riteshk-007](https://github.com/nashutosh)
 
 ## 📝 License
 
